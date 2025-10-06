@@ -60,7 +60,7 @@ The model generalizes well and is robust without overfitting.
 
 ## 🛠️ Tech Stack
 - **Language:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Libraries:** Pandas, Scikit-learn 
 
 ---
 
